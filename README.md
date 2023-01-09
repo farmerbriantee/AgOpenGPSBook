@@ -1,5 +1,5 @@
 ---
-cover: broken-reference
+cover: .gitbook/assets/AOG2.png
 coverY: 0
 ---
 

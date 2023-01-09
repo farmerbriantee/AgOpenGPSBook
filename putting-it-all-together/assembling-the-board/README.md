@@ -10,7 +10,7 @@ The parts ringed in red where things that this board required. Top two are LEDs,
 
 So, that was taken care of, and:
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (11).png>)
 
 Two jumpers were also needed to link up the left and right outputs of the Cytron to the connector on the edge of the board:
 

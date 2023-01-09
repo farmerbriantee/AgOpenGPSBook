@@ -36,7 +36,7 @@ Now comes the fun part - it'll go and check with the JLCPCB inventory and see if
 
 ![](<../../.gitbook/assets/image (20).png>)
 
-![](<../../.gitbook/assets/image (9) (1).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
 First off, starting from the bottom - it's expected that they can't supply some of the components. The SimpleRTK2B, the Cytron, the Teensy, various connectors etc, the BNO085 - they're all fine to omit and you can get them elsewhere. If you can find alternatives, now would be a good time to try that, but if not, just Save to Cart again and get the cool 3D rendered output.
 
