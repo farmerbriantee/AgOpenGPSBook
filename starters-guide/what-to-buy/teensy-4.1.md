@@ -15,6 +15,3 @@ Potential suppliers:
 * [https://www.hobbytronics.co.uk/teensy-v41](https://www.hobbytronics.co.uk/teensy-v41)
 * [https://www.sparkfun.com/products/16771](https://www.sparkfun.com/products/16771)
 
-
-
-TODO: how to upload the required sketches

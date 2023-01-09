@@ -12,4 +12,4 @@ Sample suppliers:
 
 * [https://robotbits.co.uk/product/cytron-13amp-6v-30v-dc-motor-driver/](https://robotbits.co.uk/product/cytron-13amp-6v-30v-dc-motor-driver/)
 * [https://botland.store/motor-drivers-modules/12412-cytron-md13s-single-channel-30v-13a-motor-controller-5904422377090.html](https://botland.store/motor-drivers-modules/12412-cytron-md13s-single-channel-30v-13a-motor-controller-5904422377090.html)
-*
+
