@@ -1,6 +1,14 @@
 # START HERE
 
-You're here because you either a) went down a rabbit hole and got lost, or b) are interested in AgOpenGPS - a free (as in beer) open-source system to auto-steer your machinery. "What?", you cry? "A free system!! I pay tens of thousands for that!!!".
+## Before we get started tho..
+
+If you're reading this in the github repository, you should know that it looks a LOT nicer if you visit it in gitbook - here: [https://agopengps.gitbook.io/agopengps/](https://agopengps.gitbook.io/agopengps/)
+
+
+
+### All good?
+
+OK, on with the show. You're here because you either a) went down a rabbit hole and got lost, or b) are interested in AgOpenGPS - a free (as in beer) open-source system to auto-steer your machinery. "What?", you cry? "A free system!! I pay tens of thousands for that!!!".
 
 Yeah... about that....
 
