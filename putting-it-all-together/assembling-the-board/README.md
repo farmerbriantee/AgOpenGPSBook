@@ -4,13 +4,13 @@ So, the mail/post/delivery has arrived, you've opened the box and reality has hi
 
 First, let's see what you might typically have received in your post from JLCPCB. Here's a sample micro as it came out of the packet (as you can see, this one had quite a few parts in stock at JLC when it was built, as such not a lot were missing):
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (16).png>)
 
 The parts ringed in red where things that this board required. Top two are LEDs, the 3-pin in the centre was the 7803 voltage regulator, the two circles on the right were two 1uf capacitors and also had to solder the 12V line as this one was going to be sending 12V out rather than 24V.
 
 So, that was taken care of, and:
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 Two jumpers were also needed to link up the left and right outputs of the Cytron to the connector on the edge of the board:
 

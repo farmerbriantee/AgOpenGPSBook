@@ -1,8 +1,3 @@
----
-cover: .gitbook/assets/AOG2.png
-coverY: 0
----
-
 # 🚜 START HERE
 
 ## Before we get started tho..

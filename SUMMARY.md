@@ -28,7 +28,9 @@
   * [Electrical testing and validation](putting-it-all-together/assembling-the-board/electrical-testing-and-validation.md)
 * [Configuring the ZED-F9P](putting-it-all-together/configuring-the-zed-f9p.md)
 * [Configuring the Teensy](putting-it-all-together/configuring-the-teensy.md)
-* [Configuring your tablet](putting-it-all-together/configuring-your-tablet.md)
+* [Configuring your tablet](putting-it-all-together/configuring-your-tablet/README.md)
+  * [Downloading the software](putting-it-all-together/configuring-your-tablet/downloading-the-software.md)
+  * [Connecting tablet to board](putting-it-all-together/configuring-your-tablet/connecting-tablet-to-board.md)
 
 ## 🤩 AgOpenGPS - a guide for machine-users
 

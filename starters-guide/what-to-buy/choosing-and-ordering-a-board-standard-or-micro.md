@@ -8,7 +8,7 @@ We use the JCLPCB service to manufacture our PCBs, but you can use another suppl
 
 1.- Click on [Order Now ](https://cart.jlcpcb.com/quote)to access the page to place the order, and that'll take you to a page that looks like this:
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (1).png>)
 
 These files are located in AgOpenGPS/Support/TeensyModules/Board and pick either your Micro or Std design. Inside each folder we will find three files that we are going to use, the ZIP file is your Gerber file, so pick that first:
 
@@ -16,7 +16,7 @@ These files are located in AgOpenGPS/Support/TeensyModules/Board and pick either
 
 It'll process for a bit, and you'll see a summary view:
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 Down to the bottom of the page, and slide the "PCB Assembly" switch over.
 
@@ -28,15 +28,15 @@ Click Confirm when you're happy, and then add the BOM file and CPL file (they ar
 
 <img src="../../.gitbook/assets/image (12).png" alt="" data-size="original">
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 Now comes the fun part - it'll go and check with the JLCPCB inventory and see if any parts you need are missing. Here's a sample, it's likely yours will be different tho.
 
-![](<../../.gitbook/assets/image (6) (2).png>)
+![](<../../.gitbook/assets/image (6) (2) (1).png>)
 
 ![](<../../.gitbook/assets/image (20).png>)
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 First off, starting from the bottom - it's expected that they can't supply some of the components. The SimpleRTK2B, the Cytron, the Teensy, various connectors etc, the BNO085 - they're all fine to omit and you can get them elsewhere. If you can find alternatives, now would be a good time to try that, but if not, just Save to Cart again and get the cool 3D rendered output.
 

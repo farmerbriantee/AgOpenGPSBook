@@ -4,7 +4,7 @@ Here, you'll be following your board choice - you can't fit Micro GPS modules to
 
 Standard: [https://www.ardusimple.com/product/simplertk2b/](https://www.ardusimple.com/product/simplertk2b/)
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 or Micro: [https://www.ardusimple.com/product/simplertk2b-micro/](https://www.ardusimple.com/product/simplertk2b-micro/)
 

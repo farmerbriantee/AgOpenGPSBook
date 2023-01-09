@@ -8,4 +8,4 @@ Housing for Female Terminals, Wire-to-Board, 23 Position, .157 in \[4 mm] Center
 
 ![](<../../.gitbook/assets/image (14).png>)
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (2).png>)
