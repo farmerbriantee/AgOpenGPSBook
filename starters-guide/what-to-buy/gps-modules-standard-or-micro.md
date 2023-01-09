@@ -8,7 +8,7 @@ Standard: [https://www.ardusimple.com/product/simplertk2b/](https://www.ardusimp
 
 or Micro: [https://www.ardusimple.com/product/simplertk2b-micro/](https://www.ardusimple.com/product/simplertk2b-micro/)
 
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1).png>)
 
 Options :\
 Variant - ZED-F9P (absolutely NOT F9R!!)\

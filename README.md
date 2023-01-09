@@ -1,11 +1,15 @@
-# START HERE
+---
+cover: broken-reference
+coverY: 0
+---
+
+# 🚜 START HERE
 
 ## Before we get started tho..
 
 If you're reading this in the github repository, you should know that it looks a LOT nicer if you visit it in gitbook - here: [https://agopengps.gitbook.io/agopengps/](https://agopengps.gitbook.io/agopengps/)
 
-
----
+***
 
 ### All good?
 

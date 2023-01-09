@@ -4,7 +4,7 @@ If you're going down the steering-wheel-motor route, the Phidgets is the one to 
 
 {% embed url="https://www.phidgets.com/?tier=3&catid=19&pcid=16&prodid=993" %}
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (6).png>)
 
 Note that if you're using a 24V motor as above, you'll need a 12V-24V step-up converter, sample here.
 

@@ -20,7 +20,7 @@ It'll process for a bit, and you'll see a summary view:
 
 Down to the bottom of the page, and slide the "PCB Assembly" switch over.
 
-![](<../../.gitbook/assets/image (17) (1).png>)
+![](<../../.gitbook/assets/image (17).png>)
 
 Here, you should select "assemble top side", and other important things are PCBA quantity, you can choose 5 full PCB (with SMD components soldered) or only 2 full PCB and 3 empty. If you choose Confirm Parts placement an JCLPCB engineer will correct your part placement and polarity (this action will need your confirmation).
 
@@ -36,7 +36,7 @@ Now comes the fun part - it'll go and check with the JLCPCB inventory and see if
 
 ![](<../../.gitbook/assets/image (20).png>)
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 First off, starting from the bottom - it's expected that they can't supply some of the components. The SimpleRTK2B, the Cytron, the Teensy, various connectors etc, the BNO085 - they're all fine to omit and you can get them elsewhere. If you can find alternatives, now would be a good time to try that, but if not, just Save to Cart again and get the cool 3D rendered output.
 

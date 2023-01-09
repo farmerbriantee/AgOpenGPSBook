@@ -1,6 +1,6 @@
 # Table of contents
 
-* [START HERE](README.md)
+* [🚜 START HERE](README.md)
 
 ## 🤓 Starters Guide
 
@@ -39,7 +39,7 @@
 * [Frequently Asked Questions](frequently-asked-questions/frequently-asked-questions/README.md)
   * [Help! I need to speak to someone!](frequently-asked-questions/frequently-asked-questions/help-i-need-to-speak-to-someone.md)
   * [Placeholder for FAQ categories](frequently-asked-questions/frequently-asked-questions/page-1.md)
-  * [AGIO](frequently-asked-questions/frequently-asked-questions/agio/README.md)
+  * [AGIO](frequently-asked-questions/frequently-asked-questions/agio.md)
     * [UDP](frequently-asked-questions/frequently-asked-questions/agio/udp.md)
     * [RTK/NTRIP corrections](frequently-asked-questions/frequently-asked-questions/agio/rtk-ntrip-corrections.md)
     * [Serial/COM ports](frequently-asked-questions/frequently-asked-questions/agio/serial-com-ports.md)
